@@ -4,10 +4,10 @@
 # Author: Dinesh Haribhau Dixit
 
 ### Module Flow Diagram:
-<img height="720" src="\src\main\resources\moduleFlow.png" width="1280"/><br>
+<img height="720" src="src\main\resources\moduleFlow.png" width="1280"/><br>
 
 ### Class Diagrams: 
-<img height="720" src="ScientificCalculator\src\main\resources\ScientificCalculator.png" width="1280"/><br>
+<img height="720" src="src/main/resources/ScientificCalculator.png" width="1280"/><br>
 
 
 ## Reference:
@@ -16,7 +16,7 @@ https://www.codersarts.com/post/advance-calculator
 
 
 ### This project is made using javaFX in simple UI.
-<img src="resources\scientificCalculatorSS.png"/>
+<img src="src/main/resources\scientificCalculatorSS.png"/>
 
 
 
