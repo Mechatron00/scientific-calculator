@@ -16,7 +16,7 @@ https://www.codersarts.com/post/advance-calculator
 
 
 ### This project is made using javaFX in simple UI.
-<img src="C:\Users\dixit\IdeaProjects\ScientificCalculator\src\main\resources\scientificCalculatorSS.png"/>
+<img src="resources\scientificCalculatorSS.png"/>
 
 
 
