@@ -16,7 +16,12 @@ https://www.codersarts.com/post/advance-calculator
 
 
 ### This project is made using javaFX in simple UI.
-<img src="src/main/resources\scientificCalculatorSS.png"/>
+<img src="src/main/resources\scientificCalculatorSS.png"/><br>                                        
+
+## Tools used:
+IDE: Intellij
+Technology: JavaFx
+
 
 
 
