@@ -19,7 +19,7 @@ https://www.codersarts.com/post/advance-calculator
 <img src="src/main/resources\scientificCalculatorSS.png"/><br>                                        
 
 ## Tools used:
-IDE: Intellij
+IDE: Intellij Idea                                                                                                                               
 Technology: JavaFx
 
 
